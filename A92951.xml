@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Augusta lachrymans: a funeral tear, to the memory of the worthy and honour'd Michael Godfrey, Esq; late Deputy-Governour of the Royal Bank of England: : unfortunately slain by a cannon ball, near His Majesty's person, in the trenches, at the siege of Namure. / By E. Settle.</title>
+            <author>Settle, Elkanah, 1648-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92951</idno>
+            <idno type="STC">Wing S2660A</idno>
+            <idno type="STC">ESTC R226954</idno>
+            <idno type="EEBO-CITATION">43077612</idno>
+            <idno type="OCLC">ocm 43077612</idno>
+            <idno type="VID">151705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151705)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2273:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Augusta lachrymans: a funeral tear, to the memory of the worthy and honour'd Michael Godfrey, Esq; late Deputy-Governour of the Royal Bank of England: : unfortunately slain by a cannon ball, near His Majesty's person, in the trenches, at the siege of Namure. / By E. Settle.</title>
+                  <author>Settle, Elkanah, 1648-1724.</author>
+               </titleStmt>
+               <extent>[2], 3-12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Rich. Baldwin near the Oxford Arms Inn in Warwick Lane,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within mourning border.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Michael, d. 1695 --  Poetry.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151705:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <p>
+               <hi>Auguſta Lachrymans:</hi> A Funeral TEAR, TO THE MEMORY OF THE <hi>Worthy and Honour'd</hi> Michael Godfrey, <abbr>Eſq</abbr> LATE DEPUTY-GOVERNOUR of the ROYAL BANK of <hi>ENGLAND:</hi> Unfortunately Slain by a Cannon Ball, near His Majeſty's Perſon, in the Trenches, at the Siege of <hi>NAM<g ref="char:V">Ʋ</g>RE.</hi>
+            </p>
+            <p>By <hi>E. SETTLE.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed, and are to be Sold by <hi>Rich. Baldwin,</hi> near the <hi>Oxford-Arms</hi>-Inn, in <hi>Warwick</hi>-Lane, 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:151705:2"/>
+            <!-- PDF PAGE 78 -->
+            <pb n="3" facs="tcp:151705:2"/>
+            <!-- PDF PAGE 78 -->
+            <head>Auguſta Lachrymans.</head>
+            <head type="sub">A FUNERAL TEAR To the MEMORY of the Worthy and Honour'd <hi>Michael Godfrey, <abbr>Eſq</abbr>
+               </hi> &amp;c.</head>
+            <lg>
+               <l>VIRTUE, that Plumes the <hi>Great,</hi> and Decks the <hi>Fair,</hi>
+               </l>
+               <l>
+                  <hi>Religion</hi>'s Eldeſt Mate, and <hi>Heav'n</hi>'s Co-Heir!</l>
+               <l>VIRTUE, that Perfum'd <hi>Balm,</hi> whoſe Fragrant <hi>Breath</hi>
+               </l>
+               <l>At once both <hi>Softens</hi> LIFE, and <hi>Sweetens</hi> DEATH;</l>
+               <l>At Thy <hi>
+                     <g ref="char:V">Ʋ</g>ntimely,</hi> and Lamented <hi>Fall,</hi>
+               </l>
+               <l>No Common <hi>Tears</hi> muſt wait Thy FUNERAL.</l>
+            </lg>
+            <lg>
+               <l>So our lov'd <hi>GODFREY</hi> fell! A more mourn'd <hi>Head</hi>
+               </l>
+               <l>Was never Lodg'd in HONOUR's Fatal <hi>Bed.</hi>
+               </l>
+               <l>Hard-fated <hi>Loyalty!</hi> Thou cam'ſt to Pay</l>
+               <l>A <hi>Bended Knee;</hi> but <hi>Proſtrate Life</hi> muſt Lay.</l>
+               <l>When the too keen Devourer, WAR, in all</l>
+               <l>His Sulphur <hi>Fires,</hi> Bright <hi>Steel,</hi> or Sooty <hi>Ball,</hi>
+               </l>
+               <pb n="4" facs="tcp:151705:3"/>
+               <!-- PDF PAGE 79 -->
+               <l>Doals round his <hi>Deaths</hi> 'mongſt his own Slaughter'd <hi>Sons,</hi>
+               </l>
+               <l>The <hi>Crimſon Stream</hi> there but <hi>Half pitied,</hi> runs:</l>
+               <l>But at this <hi>Thunder</hi>'s too <hi>Ill guided</hi> Blaſt,</l>
+               <l>
+                  <hi>War</hi> Bluſht, and ev'n <hi>Bellona</hi> ſtood agaſt.</l>
+               <l>The Diſmal Tale to <hi>England</hi>'s Mourning Shore,</l>
+               <l>With broken Trumps the Poſting <hi>Tritons</hi> bore:</l>
+               <l>The Wayling <hi>Nereids</hi> the ſad Accents felt;</l>
+               <l>Nor cou'd their Briny <hi>Neptune</hi> leſs than melt.</l>
+               <l>But, of Thy <hi>Mourners,</hi> Fair <hi>A<g ref="char:V">Ʋ</g>G<g ref="char:V">Ʋ</g>STA</hi>'s Chief;</l>
+               <l>So Vaſt her <hi>Loſs,</hi> and Intereſted <hi>Grief:</hi>
+               </l>
+               <l>Nor cou'd her own ſad <hi>Plaints,</hi> and murm'uring <hi>Cries,</hi>
+               </l>
+               <l>For her dear <hi>GODFREY</hi>'s <hi>Funeral Rites</hi> ſuffice;</l>
+               <l>Both from her <hi>Greſham,</hi> and her <hi>Floating Walls,</hi>
+               </l>
+               <l>A <hi>Brethren-Troop</hi> of all Wet Eyes ſhe calls.</l>
+               <l>One Trickling <hi>Tear</hi> too, from <hi>Britannia</hi> run;</l>
+               <l>The Pious Sorrow for her <hi>Darling Son.</hi>
+               </l>
+               <l>
+                  <hi>Battle,</hi> with all his Bolts <hi>Commiſſion'd Rage,</hi>
+               </l>
+               <l>That <hi>Theatre</hi> of <hi>Fate,</hi> that <hi>Bloody Stage,</hi>
+               </l>
+               <l>Acted, alas! but Half Thy <hi>Tragick Part:</hi>
+               </l>
+               <l>
+                  <hi>BELGIA</hi>'s the Blow, but <hi>ALBION</hi>'s is the Smart.</l>
+            </lg>
+            <lg>
+               <l>But, hark! methinks Thy <hi>Fame</hi>'s ſweet Trumpetſounds</l>
+               <l>That Tuneful Muſick o're Thy <hi>Glorious Wounds:</hi>
+               </l>
+               <l>The Angry BOLT, by an <hi>Exchanging Stroke,</hi>
+               </l>
+               <l>The <hi>GODFREY</hi> for the <hi>Ranſom'd CAESAR</hi> took.</l>
+               <pb n="5" facs="tcp:151705:3"/>
+               <!-- PDF PAGE 79 -->
+               <l>Thy <hi>Interpoſing Breaſt</hi> to Catch the <hi>Blow</hi>
+               </l>
+               <l>Aim'd at Great <hi>WILLIAM</hi>'s <hi>Life,</hi> and <hi>E<g ref="char:V">Ʋ</g>ROPE</hi>'s too.</l>
+               <l>Whil'ſt Thou the <hi>Tutelar Bar</hi> to That dire <hi>Doom,</hi>
+               </l>
+               <l>Champion of <hi>Britain,</hi> Fence of <hi>Chriſtendom,</hi>
+               </l>
+               <l>Thus <hi>Fal'n;</hi> Oh! let that <hi>Single Fame</hi> out-pride</l>
+               <l>A <hi>Mauſoloeum,</hi> or a <hi>Pyramide.</hi>
+               </l>
+               <l>Since Thou muſt Bleed; ſo Bleed! Nor is it more,</l>
+               <l>Than Thy Great <hi>Predeceſſor</hi> did Before:</l>
+               <l>Whoſe <hi>Martyrdom</hi> Thy equal <hi>Glory</hi> Sings;</l>
+               <l>The <hi>GODFREY</hi>'s <hi>Race</hi> ev'n <hi>born</hi> the <hi>Shield</hi> of <hi>Kings!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, at the Shock of this Lamented <hi>Blow,</hi>
+               </l>
+               <l>(So deep the <hi>Channels</hi> from our <hi>Sorrows</hi> flow;)</l>
+               <l>Yet ſtill, if poſſible, ev'n to <hi>Rebate</hi>
+               </l>
+               <l>A little the keen Edge of Thy <hi>Hard Fate;</hi>
+               </l>
+               <l>From <hi>Filial Eyes</hi> no ſtreaming Currents glide,</l>
+               <l>Nor <hi>Sabled Widow</hi> ſwells the Briny Tide:</l>
+               <l>Some <hi>Mercy,</hi> ev'n in <hi>Cruelty,</hi> there ſhin'd,</l>
+               <l>And Thy too angry <hi>Stars</hi> were yet ſo Kind,</l>
+               <l>At leaſt, thoſe <hi>Drowning Streams</hi> of <hi>Grief</hi> to ſave:</l>
+               <l>No <hi>Portia,</hi> nor <hi>Cornelia,</hi> waits Thy <hi>Grave.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What, tho' no <hi>Childrens</hi> Cries! <hi>Beneath</hi> Thee none!</l>
+               <l>Enough that All, <hi>Around,</hi> Thy Loſs bemoan!</l>
+               <l>Enough Thy <hi>Country</hi> is a <hi>Mourner</hi> here!</l>
+               <l>Enough the Pitying <hi>NASSA<g ref="char:V">Ʋ</g>
+                  </hi> drops a <hi>Tear!</hi>
+               </l>
+               <pb n="6" facs="tcp:151705:4"/>
+               <!-- PDF PAGE 80 -->
+               <l>Enough!—Too much, what thy ſad PARENT bears!</l>
+               <l>The <hi>Fountain</hi> of thy LIFE, the <hi>Fountain</hi> of thy TEARS!</l>
+               <l>Nay, after all Thy <hi>Herſes</hi> Sable <hi>Train,</hi>
+               </l>
+               <l>And our ſoft trickling <hi>Drops,</hi> th' Effeminate <hi>Rain,</hi>
+               </l>
+               <l>Bedews th' <hi>Inexorable Grave</hi> in vain:</l>
+               <l>Beyond thoſe <hi>Sorrow's</hi> Pompous <hi>Cavalcade,</hi>
+               </l>
+               <l>Thou haſt thoſe <hi>Funeral Rites</hi> yet ſtill unpaid,</l>
+               <l>That deeper <hi>Mourning Dye;</hi> A warm, warm <hi>Flood</hi>
+               </l>
+               <l>Of Nobler <hi>Crimſon</hi> Currents, Tears of <hi>Blood:</hi>
+               </l>
+               <l>
+                  <hi>Streams,</hi> which Great <hi>WILLIAM</hi>'s Conqu'ring <hi>Vengeance</hi> pours,</l>
+               <l>And Fair <hi>BRITANNIA</hi>'s Glorious <hi>Thunder</hi> ſhow'rs:</l>
+               <l>Whil'ſt Trembling <hi>Gallia</hi>'s VVounded Sides, all goar'd</l>
+               <l>By her Bold <hi>Hunter</hi>'s keen purſuing <hi>Sword;</hi>
+               </l>
+               <l>Her flowing <hi>Gore</hi> a Tribute to Thy <hi>
+                     <g ref="char:V">Ʋ</g>rn,</hi>
+               </l>
+               <l>Thy very <hi>Enemies</hi> Thy <hi>Loſs</hi> ſhall Mourn.</l>
+            </lg>
+            <lg>
+               <l>So <hi>Mourn'd,</hi> and, Oh! ſo <hi>Loſt!</hi> that <hi>Worth,</hi> where ſhin'd</l>
+               <l>The Lovelieſt <hi>Graces,</hi> that adorn <hi>Mankind!</hi>
+               </l>
+               <l>For, Oh! How vaſt a <hi>Maſs</hi> enricht that MIND!</l>
+            </lg>
+            <lg>
+               <l>TRUST, and Fair FAITH were ſo entirely Thine,</l>
+               <l>Thy BREAST the <hi>Quarry</hi> to TRUTH's Golden <hi>Mine.</hi>
+               </l>
+               <l>Did'ſt Thou but PROMISE, 'twas Thy <hi>Stamp</hi> &amp; <hi>Seal;</hi>
+               </l>
+               <l>Like <hi>Deſtiny,</hi> admitted no <hi>Repeal:</hi>
+               </l>
+               <l>Thy WORD Thy <hi>Honour, Bond,</hi> and <hi>Oracle.</hi>
+               </l>
+            </lg>
+            <pb n="7" facs="tcp:151705:4"/>
+            <!-- PDF PAGE 80 -->
+            <lg>
+               <l>Cou'd <hi>Gallick</hi> LEAGUES or OATHS but half ſo bind;</l>
+               <l>With half Thy TRUTH the ſullied <hi>Lillies</hi> ſhin'd,</l>
+               <l>Long, long had <hi>E<g ref="char:V">Ʋ</g>ROPE</hi>'s <hi>Bloody Flag</hi> been Furl'd,</l>
+               <l>And <hi>Halcyon Peace</hi> had Brooded o're the WORLD.</l>
+               <l>No <hi>Foreign Bolts</hi> had all theſe <hi>Sorrows</hi> coſt:</l>
+               <l>War's <hi>Thunder</hi> had been Huſht; Nor <hi>GODFREY</hi> Loſt.</l>
+               <l>How Rich the <hi>Furniture</hi> t' a <hi>Private Breaſt?</hi>
+               </l>
+               <l>What <hi>Wealth</hi> had ev'n One <hi>Little World</hi> Poſſeſt?</l>
+               <l>Oh! might the <hi>Greater Globe</hi> Thy Pattern'd <hi>Honour</hi> rule;</l>
+               <l>How <hi>Courts, States, Crowns,</hi> might Learn, ev'n from Thy <hi>City-School.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Faith,</hi> th' <hi>Atlas</hi> of the World, <hi>Society,</hi>
+               </l>
+               <l>
+                  <hi>Converſe,</hi> and <hi>Commerce;</hi> ev'n <hi>Humanity</hi>
+               </l>
+               <l>It ſelf, our whole Great ALL's upheld by THEE.</l>
+               <l>If an <hi>Inviolate</hi> VVORD is that Rich Mine;</l>
+               <l>Oh, <hi>GODFREY!</hi> were all <hi>Breaſts</hi> but fill'd like <hi>Thine!</hi>
+               </l>
+               <l>Nay, wou'd our <hi>Nobleſt Lips</hi> but Breathe like <hi>Thee,</hi>
+               </l>
+               <l>Her Face ev'n GREATNESS, in Thy <hi>Mirrour,</hi> ſee:</l>
+               <l>No <hi>
+                     <g ref="char:V">Ʋ</g>npaid Scarlet</hi> then, in <hi>Bluſhes</hi> dy'd;</l>
+               <l>No <hi>City Groans</hi> wou'd ſhade the Gay <hi>Court Pride:</hi>
+               </l>
+               <l>In what <hi>True State</hi> would <hi>Engliſh Grandeur</hi> move?</l>
+               <l>The <hi>Knees</hi> Below bent to the <hi>Heads</hi> Above!</l>
+               <l>The <hi>Byrſe</hi> the Honour'd <hi>Palace</hi> wou'd Careſs;</l>
+               <l>And the Poor <hi>Plough,</hi> the Gawdy <hi>Chariot</hi> Bleſs.</l>
+               <pb n="8" facs="tcp:151705:5"/>
+               <!-- PDF PAGE 81 -->
+               <l>TRUTH, that Fair <hi>Jem</hi> in <hi>GODFREY</hi>'s Casket ſet,</l>
+               <l>That ev'n his <hi>Furrs</hi> might ſhame the <hi>Coronet.</hi>
+               </l>
+               <l>Did Thy FRANK SOUL in ev'ry Boſome reign,</l>
+               <l>
+                  <hi>Falſehood</hi> and <hi>Fraud,</hi> with all their <hi>Vizard</hi> Train;</l>
+               <l>Nay, that Court-Shadow, <hi>Flatt'ry,</hi> vaniſht quite;</l>
+               <l>Heav'ns! What a <hi>Fogg</hi> wou'd Clear before ſuch <hi>Light?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nor did Thy MORAL <hi>Glories</hi> only ſhine.</l>
+               <l>An equal <hi>Homager</hi> to <hi>Truth</hi> DIVINE,</l>
+               <l>More <hi>Faithful Knee</hi> our <hi>Altars</hi> ne're cou'd Grace,</l>
+               <l>Deſcended from <hi>Religion</hi>'s<note n="*" place="margin">
+                     <hi>Sir</hi> Edm. Godfrey.</note> CHAMPION-RACE.</l>
+               <l>And where that <hi>Glorious</hi> MARTYR's <hi>Image</hi> reigns,</l>
+               <l>(<hi>Enricht</hi> both by His VIRTUES, and His VEINS)</l>
+               <l>Well might th' <hi>Hereditary Beams</hi> inſpire,</l>
+               <l>
+                  <hi>Enlighten'd</hi> by ſuch <hi>Tranſmigrated Fire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let <hi>Cloyſt'rers</hi> vainly boaſt, <hi>Religion</hi> dwells</l>
+               <l>In Solitary <hi>Grotts,</hi> and Lonely <hi>Cells;</hi>
+               </l>
+               <l>Born only for <hi>Themſelves,</hi> think HEAV'N to pleaſe;</l>
+               <l>The <hi>Drones</hi> of <hi>Life,</hi> in all the <hi>Ruſt</hi> of <hi>Eaſe.</hi>
+               </l>
+               <l>No ſuch dull <hi>Wreathes</hi> Thy <hi>Temples</hi> did adorn;</l>
+               <l>
+                  <hi>GODFREY</hi> was ne'r to <hi>Lazy Virtues</hi> born.</l>
+               <l>BUS'INESS, <hi>Sloth</hi>'s Shame, <hi>Life</hi>'s Honourable <hi>Toyl,</hi>
+               </l>
+               <l>And <hi>Induſtry</hi>'s fair Growth, His <hi>Harveſt</hi> Pile;</l>
+               <l>Far as <hi>Seas</hi> rowl, or <hi>Canvas Wings</hi> can fly,</l>
+               <l>NATURE his <hi>Garden,</hi> EARTH his <hi>Granary;</hi>
+               </l>
+               <pb n="9" facs="tcp:151705:5"/>
+               <!-- PDF PAGE 81 -->
+               <l>Like th' <hi>Hybla</hi> Forager; from each kind <hi>Flow'r</hi>
+               </l>
+               <l>To his <hi>Rich Hive</hi> the laded <hi>Sweets</hi> he bore:</l>
+               <l>Or like the more fam'd Bird of the Proud <hi>Eaſt,</hi>
+               </l>
+               <l>In a <hi>VVarm Sun</hi> Built his own <hi>Spicy Neſt.</hi>
+               </l>
+               <l>Nor did His <hi>Soaring</hi> SOUL leſs <hi>Active</hi> move;</l>
+               <l>Not Clogg'd <hi>Below,</hi> to check her Flight <hi>Above:</hi>
+               </l>
+               <l>No; His <hi>Pois'd</hi> CARE held the great <hi>Ballance</hi> ev'n</l>
+               <l>Betwixt the <hi>Buſy World,</hi> and <hi>Studied Heav'n.</hi>
+               </l>
+               <l>Nay, the more <hi>Worldly Bleſſings</hi> that he reap'd,</l>
+               <l>But Plum'd and Wing'd his PIETY: As <hi>They</hi> heap'd,</l>
+               <l>He look'd up to the <hi>Source</hi> from whence <hi>They</hi> flow'd;</l>
+               <l>And but Paid <hi>Heav'n</hi> the more, the more <hi>He</hi> Ow'd.</l>
+            </lg>
+            <lg>
+               <l>INDUSTRY ev'n came in before the <hi>Plough,</hi>
+               </l>
+               <l>E're Man the <hi>Fig-Leaves</hi> wore, or <hi>Sweating Brow:</hi>
+               </l>
+               <l>And our <hi>Great Sire,</hi> by the CREATOR grac'd,</l>
+               <l>In His <hi>
+                     <g ref="char:V">Ʋ</g>ntill'd, <g ref="char:V">Ʋ</g>nforfeit EDEN</hi> plac'd:</l>
+               <l>In his <hi>Rich Soyl</hi> the <hi>Lord</hi> of <hi>Humane Kind,</hi>
+               </l>
+               <l>Had ſtill ſome <hi>Charge,</hi> ſome <hi>Truſt,</hi> ſome <hi>Task,</hi> aſſign'd;</l>
+               <l>In his High Seat held not that <hi>Sluggiſh</hi> Bliſs,</l>
+               <l>Either to <hi>Lull</hi> or <hi>Bask,</hi> tho' ev'n in <hi>Paradice.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If INDUSTRY did to Thy <hi>Portion</hi> fall,</l>
+               <l>Whether Thy <hi>Fate,</hi> Thy <hi>Chance,</hi> Thy <hi>Choice,</hi> or All;</l>
+               <l>That <hi>Penetrating</hi> WIT, DEPTH ſo <hi>Profound,</hi>
+               </l>
+               <l>JUDGMENT ſo <hi>Quick,</hi> INTEGRITY ſo <hi>Sound;</hi>
+               </l>
+               <pb n="10" facs="tcp:151705:6"/>
+               <!-- PDF PAGE 82 -->
+               <l>By <hi>Nature</hi> Form'd and Stampt for <hi>Charge</hi> and <hi>Truſt,</hi>
+               </l>
+               <l>Thy Hand was <hi>Fitted,</hi> and Thy Stars were <hi>Juſt.</hi>
+               </l>
+               <l>Thus all the Active <hi>Poſts</hi> our <hi>GODFREY</hi> held,</l>
+               <l>No more than His <hi>Creation-Work</hi> fullfill'd.</l>
+               <l>
+                  <hi>Fatiegue</hi> was but Thy <hi>Play;</hi> and <hi>Buſineſs</hi> more</l>
+               <l>The <hi>Plume</hi> Thy <hi>Brow,</hi> than <hi>Load</hi> Thy <hi>Shoulders</hi> wore.</l>
+               <l>His <hi>Globe</hi> Thy <hi>Atlas</hi> with that Eaſe ſuſtain'd,</l>
+               <l>And ſo all <hi>Sprightly</hi> Thy <hi>Minerva</hi> reign'd;</l>
+               <l>That <hi>Genius</hi> and <hi>Diſpatch,</hi> as cou'd go through</l>
+               <l>At once the <hi>Martha</hi>'s Task, and <hi>Mary</hi>'s too.</l>
+            </lg>
+            <lg>
+               <l>Thus at Thy<note n="*" place="margin">Royal Bank.</note> 
+                  <hi>Helm</hi> of GOLD, Thy <hi>Short-liv'd</hi> Pride,</l>
+               <l>No <hi>Abler, Truſtier</hi> PILOT Hand cou'd Guide:</l>
+               <l>That fair <hi>Foundation</hi> ROYAL, that (if my</l>
+               <l>Too poor <hi>Propheticks</hi> may dare Speak ſo high)</l>
+               <l>Beyond her yet too <hi>Narrow Leaſe,</hi> ſhall ſtand,</l>
+               <l>With its <hi>
+                     <g ref="char:V">Ʋ</g>nſhaken</hi> Head, till <hi>Time</hi>'s laſt Sand.</l>
+               <l>Whoſe <hi>Circulating Warmth</hi> ſhall never ceaſe,</l>
+               <l>At once the <hi>Nerves</hi> of WAR, and <hi>Veins</hi> of PEACE;</l>
+               <l>
+                  <hi>Commerce, Arts, Arms,</hi> all her own fair <hi>Increaſe.</hi>
+               </l>
+               <l>A TREASURY, from whoſe <hi>Diffuſive Mine</hi>
+               </l>
+               <l>Our <hi>Glebe</hi> ſhall <hi>Fatten,</hi> and our THRONE ſhall <hi>Shine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This Honour'd <hi>Sphere</hi> of <hi>Conſtellated</hi> WORTH,</l>
+               <l>Saw her <hi>Lov'd GODFREY</hi>'s ſmiling <hi>Morn</hi> ſet forth,</l>
+               <pb n="11" facs="tcp:151705:6"/>
+               <!-- PDF PAGE 82 -->
+               <l>And thy ſad <hi>Setting</hi> too—And here, in all</l>
+               <l>The <hi>Pitying Dew</hi> does at that <hi>Setting</hi> fall,</l>
+               <l>From Thy kind <hi>Pylades,</hi> Thy<note n="†" place="margin">
+                     <hi>Sir</hi> Will. Scowen.</note> FRIEND and MATE,</l>
+               <l>The Tend reſt,<note n="*" place="margin">Being within Two Yards of the Fatal Shot.</note> 
+                  <hi>Neareſt</hi> WITNESS of Thy <hi>Fate,</hi>
+               </l>
+               <l>Is the Firſt <hi>Tribute</hi> paid. And, Oh! a more</l>
+               <l>Than <hi>Common Pity,</hi> LOVE here ſwells the <hi>Show'r;</hi>
+               </l>
+               <l>That <hi>Love,</hi> and Faithful <hi>Ami'ty,</hi> that ſupplies</l>
+               <l>At once his o're charg'd <hi>Breaſt,</hi> and flowing <hi>Eyes.</hi>
+               </l>
+               <l>True <hi>Mourner, Friend;</hi> nay, t' add one <hi>Title</hi> more,</l>
+               <l>Thy <hi>Truſt, Worth, Virtues,</hi> all, True SUCCESSOR;</l>
+               <l>Thy <hi>Treble</hi> HEIR.—So a Fair <hi>Roſe</hi> full grown,</l>
+               <l>Off from the <hi>Stalk</hi> by ſome rude <hi>Tempeſt</hi> blown;</l>
+               <l>The next Twin-<hi>Bloſſom,</hi> the next <hi>Morning</hi>-Dawn,</l>
+               <l>
+                  <hi>Op'd, Spread,</hi> and <hi>Dreſt</hi> in the ſame <hi>Crimſon Lawn;</hi>
+               </l>
+               <l>On the ſame <hi>Branch</hi> a New fair <hi>Pendant Jem,</hi>
+               </l>
+               <l>With the ſame <hi>Sweets</hi> new decks the <hi>Widow'd Stem.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well, <hi>Patriot GODFREY,</hi> ſince it is Decreed,</l>
+               <l>Such <hi>Publick</hi> MERIT muſt <hi>
+                     <g ref="char:V">Ʋ</g>ntimely</hi> Bleed;</l>
+               <l>The <hi>Great</hi> DISPENSER for Thy <hi>Doom</hi> declares,</l>
+               <l>And our <hi>Juſt Grief</hi> ſhall Pay <hi>Thee</hi> all it <hi>Dares:</hi>
+               </l>
+               <l>
+                  <hi>Hard-fetter'd</hi> Sorrow! Our poor <hi>Tongue-ty'd</hi> Woe</l>
+               <l>May <hi>Wayl,</hi> but muſt not <hi>Murmur</hi> at the <hi>Blow.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How <hi>War,</hi> more <hi>Blind</hi> than <hi>Love,</hi> his Wounds do's give!</l>
+               <l>So Call'd to <hi>Dye,</hi> what moſt Deſerv'd to <hi>Live!</hi>
+               </l>
+               <pb n="12" facs="tcp:151705:7"/>
+               <!-- PDF PAGE 83 -->
+               <l>VVhat's <hi>Battle,</hi> but the <hi>Lottery</hi> of <hi>Fame?</hi>
+               </l>
+               <l>The Puſhing <hi>VVarriour</hi> plays that <hi>Deſp'rate Game,</hi>
+               </l>
+               <l>And only Sets a <hi>Life,</hi> to Win a <hi>Name.</hi>
+               </l>
+               <l>
+                  <hi>War</hi> is the <hi>Mart</hi> of <hi>Honour,</hi> to ſupply</l>
+               <l>Th' <hi>
+                     <g ref="char:V">Ʋ</g>nfurniſht Brow;</hi> whil'ſt at a <hi>Price</hi> ſo <hi>High,</hi>
+               </l>
+               <l>'Tis they that <hi>Want</hi> it, thither come to <hi>Buy.</hi>
+               </l>
+               <l>Let Meaner <hi>VVorth,</hi> then, ſeek out <hi>Martial Fields,</hi>
+               </l>
+               <l>To Raiſe that GLORY <hi>Blood</hi> and <hi>Danger</hi> builds.</l>
+               <l>HONOUR, Alas! was all Thy <hi>Own</hi> before;</l>
+               <l>Ev'n <hi>Lawrels</hi> to Thy <hi>Brow</hi> cou'd ſcarce add more.</l>
+               <l>Thy Brighter <hi>Olave Chaplet</hi> ſhin'd ſo Fair,</l>
+               <l>
+                  <hi>Renown</hi> Thou thither <hi>Broughtſt,</hi> not <hi>Soughtſt</hi> it there.</l>
+            </lg>
+            <lg>
+               <l>And now, for the <hi>Laſt Sweets</hi> to ſtrew Thy <hi>Tomb;</hi>
+               </l>
+               <l>
+                  <hi>Sweets,</hi> that in th' <hi>Herauld's</hi> Garden ne'r could Bloom:</l>
+               <l>A <hi>Garland</hi> of thoſe <hi>Flow'rs,</hi> which all his <hi>Field</hi>
+               </l>
+               <l>Of poorer <hi>Or,</hi> nor <hi>Argent,</hi> ne'r cou'd yeild.</l>
+               <l>Let Prouder GREATNESS be with <hi>Scutcheons</hi> bleſt;</l>
+               <l>And glory in a <hi>Title,</hi> and a <hi>Creſt:</hi>
+               </l>
+               <l>
+                  <hi>Honours, VVealth, Dignities,</hi> their narrower Pride</l>
+               <l>A ſmall <hi>Succeſſion,</hi> and few <hi>Heirs,</hi> divide.</l>
+               <l>They who that <hi>Ampler Patrimony</hi> claim,</l>
+               <l>A <hi>Virtuous Memory,</hi> and a <hi>Good Name;</hi>
+               </l>
+               <l>'Tis They dye truly <hi>Rich:</hi> They leave behind</l>
+               <l>A <hi>Leg'acy</hi> to no leſs than all <hi>Mankind.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151705:7"/>
+            <!-- PDF PAGE 83 -->
+         </div>
+      </body>
+   </text>
+</TEI>
